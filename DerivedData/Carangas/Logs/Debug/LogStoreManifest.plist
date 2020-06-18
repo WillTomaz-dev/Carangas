@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>01434B9A-5FE6-4195-8FF7-5AB5ADDA0909</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>01434B9A-5FE6-4195-8FF7-5AB5ADDA0909.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614186048.14434004</real>
+			<key>timeStoppedRecording</key>
+			<real>614188373.97927701</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>01434B9A-5FE6-4195-8FF7-5AB5ADDA0909</string>
+		</dict>
+		<key>03258FC7-0A6D-4815-9850-3FCB848342EA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>03258FC7-0A6D-4815-9850-3FCB848342EA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614185904.22478199</real>
+			<key>timeStoppedRecording</key>
+			<real>614185926.47570205</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>03258FC7-0A6D-4815-9850-3FCB848342EA</string>
+		</dict>
+		<key>0335F071-589B-4A3E-A583-0DAE6DA05083</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0335F071-589B-4A3E-A583-0DAE6DA05083.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614188855.62718701</real>
+			<key>timeStoppedRecording</key>
+			<real>614189090.03023601</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>0335F071-589B-4A3E-A583-0DAE6DA05083</string>
+		</dict>
+		<key>0B1AF75B-6AC7-4454-A653-A79D8B1196FC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0B1AF75B-6AC7-4454-A653-A79D8B1196FC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614191038.00755095</real>
+			<key>timeStoppedRecording</key>
+			<real>614191082.73590803</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>0B1AF75B-6AC7-4454-A653-A79D8B1196FC</string>
+		</dict>
+		<key>1E99D68B-A5A4-4CD4-9659-99B9A7EFDE14</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1E99D68B-A5A4-4CD4-9659-99B9A7EFDE14.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614189092.20330298</real>
+			<key>timeStoppedRecording</key>
+			<real>614189144.52778101</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>1E99D68B-A5A4-4CD4-9659-99B9A7EFDE14</string>
+		</dict>
+		<key>2BB9499B-DDD7-43E6-BAB4-6B51175F64C8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2BB9499B-DDD7-43E6-BAB4-6B51175F64C8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614189364.66181004</real>
+			<key>timeStoppedRecording</key>
+			<real>614189368.85130203</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>2BB9499B-DDD7-43E6-BAB4-6B51175F64C8</string>
+		</dict>
+		<key>40BD99B6-AA38-4533-B08C-755364270266</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>40BD99B6-AA38-4533-B08C-755364270266.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614190124.98168898</real>
+			<key>timeStoppedRecording</key>
+			<real>614190180.31868398</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>40BD99B6-AA38-4533-B08C-755364270266</string>
+		</dict>
+		<key>49F4B4D2-2522-45B7-876E-2CFFAD636E6E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>49F4B4D2-2522-45B7-876E-2CFFAD636E6E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614189144.34726298</real>
+			<key>timeStoppedRecording</key>
+			<real>614189168.54953802</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>49F4B4D2-2522-45B7-876E-2CFFAD636E6E</string>
+		</dict>
+		<key>67C43AD9-4E05-4609-A197-0068B149212C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>67C43AD9-4E05-4609-A197-0068B149212C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614185859.76841104</real>
+			<key>timeStoppedRecording</key>
+			<real>614185903.57950103</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>67C43AD9-4E05-4609-A197-0068B149212C</string>
+		</dict>
+		<key>69159302-C391-4B0C-9B33-327F24B3DE4E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>69159302-C391-4B0C-9B33-327F24B3DE4E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614188376.99184597</real>
+			<key>timeStoppedRecording</key>
+			<real>614188426.67961204</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>69159302-C391-4B0C-9B33-327F24B3DE4E</string>
+		</dict>
+		<key>814B4B17-3937-48A0-81A8-3EFE03B1C09A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>814B4B17-3937-48A0-81A8-3EFE03B1C09A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614188429.63592696</real>
+			<key>timeStoppedRecording</key>
+			<real>614188852.55990005</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>814B4B17-3937-48A0-81A8-3EFE03B1C09A</string>
+		</dict>
+		<key>9A0D43E8-510E-4A4A-A5B5-A9A34B5E90D5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9A0D43E8-510E-4A4A-A5B5-A9A34B5E90D5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614185761.53474402</real>
+			<key>timeStoppedRecording</key>
+			<real>614185812.77019501</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>9A0D43E8-510E-4A4A-A5B5-A9A34B5E90D5</string>
+		</dict>
+		<key>9F05F22B-7887-445D-B9C6-9CCA2914EC9C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9F05F22B-7887-445D-B9C6-9CCA2914EC9C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614116847.924582</real>
+			<key>timeStoppedRecording</key>
+			<real>614116878.87787902</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>9F05F22B-7887-445D-B9C6-9CCA2914EC9C</string>
+		</dict>
+		<key>A69F0669-F9B8-47E9-86B6-BD99FD015C50</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A69F0669-F9B8-47E9-86B6-BD99FD015C50.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614190063.70453894</real>
+			<key>timeStoppedRecording</key>
+			<real>614190122.35430205</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>A69F0669-F9B8-47E9-86B6-BD99FD015C50</string>
+		</dict>
+		<key>A6BD477D-6715-413F-AC80-6158720E21CC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A6BD477D-6715-413F-AC80-6158720E21CC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614190801.53938997</real>
+			<key>timeStoppedRecording</key>
+			<real>614191035.263749</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>A6BD477D-6715-413F-AC80-6158720E21CC</string>
+		</dict>
+		<key>AD59E474-6170-4753-8B32-27DCA1C62077</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AD59E474-6170-4753-8B32-27DCA1C62077.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614183973.01610196</real>
+			<key>timeStoppedRecording</key>
+			<real>614185757.68202102</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>AD59E474-6170-4753-8B32-27DCA1C62077</string>
+		</dict>
+		<key>B6F95D83-CB30-4F5E-AB6D-26D277BBFDC8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B6F95D83-CB30-4F5E-AB6D-26D277BBFDC8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614189748.10893905</real>
+			<key>timeStoppedRecording</key>
+			<real>614189985.99654806</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>B6F95D83-CB30-4F5E-AB6D-26D277BBFDC8</string>
+		</dict>
+		<key>B807F907-3789-45F0-B966-A143AB209036</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B807F907-3789-45F0-B966-A143AB209036.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614189472.69337904</real>
+			<key>timeStoppedRecording</key>
+			<real>614189546.81975698</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>B807F907-3789-45F0-B966-A143AB209036</string>
+		</dict>
+		<key>B88B351A-2A7B-4CCB-B685-F1650E3F53B1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B88B351A-2A7B-4CCB-B685-F1650E3F53B1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614189368.68381</real>
+			<key>timeStoppedRecording</key>
+			<real>614189439.916592</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>B88B351A-2A7B-4CCB-B685-F1650E3F53B1</string>
+		</dict>
+		<key>C595C1D5-C62A-48DD-9F40-D6EC684CE946</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C595C1D5-C62A-48DD-9F40-D6EC684CE946.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614183878.469841</real>
+			<key>timeStoppedRecording</key>
+			<real>614183970.39899194</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>C595C1D5-C62A-48DD-9F40-D6EC684CE946</string>
+		</dict>
+		<key>EAEAE8A4-6C15-4F57-B967-0558FFBC074F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EAEAE8A4-6C15-4F57-B967-0558FFBC074F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614189988.66291499</real>
+			<key>timeStoppedRecording</key>
+			<real>614190026.00796497</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>EAEAE8A4-6C15-4F57-B967-0558FFBC074F</string>
+		</dict>
+		<key>EFDA733F-6280-4D91-A684-C0409A363F8E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EFDA733F-6280-4D91-A684-C0409A363F8E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614189442.30186796</real>
+			<key>timeStoppedRecording</key>
+			<real>614189474.32988906</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>EFDA733F-6280-4D91-A684-C0409A363F8E</string>
+		</dict>
+		<key>F27419C6-4FC0-40EF-B92C-759D17BFA313</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F27419C6-4FC0-40EF-B92C-759D17BFA313.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614189309.31220305</real>
+			<key>timeStoppedRecording</key>
+			<real>614189361.69432795</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>F27419C6-4FC0-40EF-B92C-759D17BFA313</string>
+		</dict>
+		<key>F288D628-A651-482B-B812-A906B389395B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F288D628-A651-482B-B812-A906B389395B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Carangas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Carangas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Carangas</string>
+			<key>timeStartedRecording</key>
+			<real>614190183.30690503</real>
+			<key>timeStoppedRecording</key>
+			<real>614190379.42586303</real>
+			<key>title</key>
+			<string>Debug Carangas</string>
+			<key>uniqueIdentifier</key>
+			<string>F288D628-A651-482B-B812-A906B389395B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

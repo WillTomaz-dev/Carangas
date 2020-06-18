@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "9ef73e40f1a4f21bb335459f975397f4"
+build_time: [1592498235, 158259000]
+inputs:
+  "/Users/williamtomaz/Downloads/Carangas/Carangas/CarsTableViewController.swift": [1592493245, 0]
+  "/Users/williamtomaz/Downloads/Carangas/Carangas/REST.swift": [1592497242, 0]
+  "/Users/williamtomaz/Downloads/Carangas/Carangas/AppDelegate.swift": [1508631836, 0]
+  "/Users/williamtomaz/Downloads/Carangas/Carangas/Car.swift": [1592493779, 0]
+  "/Users/williamtomaz/Downloads/Carangas/Carangas/AddEditViewController.swift": [1592498235, 0]
+  "/Users/williamtomaz/Downloads/Carangas/Carangas/CarViewController.swift": [1592491244, 0]
